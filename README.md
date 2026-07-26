@@ -1,5 +1,7 @@
 # Daikin Air Cleaner - Home Assistant カスタムコンポーネント
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P1O623UCN0)
+
 ダイキン製空気清浄機をHome Assistantで制御するためのカスタムコンポーネントです。ローカルネットワーク経由でHTTP APIを使って機器と通信します。
 
 ## 対応機器
